@@ -1,0 +1,11 @@
+grecja.txt
+60
+0
+1
+0
+3
+5
+1
+0 1000
+10
+..\wyniki\grecja6003.txt

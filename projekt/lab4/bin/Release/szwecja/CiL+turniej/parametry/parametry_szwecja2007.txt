@@ -1,0 +1,11 @@
+szwecja.txt
+10
+0
+1
+0
+1
+25
+0
+0 2000
+10
+..\wyniki\szwecja2007.txt

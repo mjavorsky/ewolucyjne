@@ -1,0 +1,11 @@
+grecja.txt
+20
+0
+1
+0
+2
+30
+1
+0 1000
+10
+..\wyniki\grecja4005.txt

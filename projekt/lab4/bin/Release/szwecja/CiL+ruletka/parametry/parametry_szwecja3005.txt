@@ -1,0 +1,11 @@
+szwecja.txt
+10
+0
+1
+1
+1
+20
+0
+0 1000
+10
+..\wyniki\szwecja3005.txt

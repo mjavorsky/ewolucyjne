@@ -1,0 +1,72 @@
+C:\Users\student\Desktop\lab4\lab4\bin\Debug\lab4.exe.config
+C:\Users\Mateusz\Desktop\ewolucyjne\LAB5\lab5\lab4\bin\Debug\lab4.exe.config
+C:\Users\Mateusz\Desktop\ewolucyjne\LAB5\lab5\lab4\bin\Debug\lab4.exe
+C:\Users\Mateusz\Desktop\ewolucyjne\LAB5\lab5\lab4\bin\Debug\lab4.pdb
+C:\Users\Mateusz\Desktop\ewolucyjne\LAB5\lab5\lab4\obj\Debug\lab4.csprojResolveAssemblyReference.cache
+C:\Users\Mateusz\Desktop\ewolucyjne\LAB5\lab5\lab4\obj\Debug\lab4.exe
+C:\Users\Mateusz\Desktop\ewolucyjne\LAB5\lab5\lab4\obj\Debug\lab4.pdb
+C:\Users\student\Desktop\lab5\lab4\bin\Debug\lab4.exe.config
+C:\Users\student\Desktop\lab5\lab4\obj\Debug\lab4.exe
+C:\Users\student\Desktop\lab5\lab4\obj\Debug\lab4.pdb
+C:\Users\student\Desktop\lab5\lab4\obj\Debug\lab4.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\lab5\lab4\bin\Debug\lab4.exe
+C:\Users\student\Desktop\lab5\lab4\bin\Debug\lab4.pdb
+C:\Users\Mateusz\Desktop\ewolucyjne\LAB6\lab5\lab4\bin\Debug\lab4.exe.config
+C:\Users\Mateusz\Desktop\ewolucyjne\LAB6\lab5\lab4\obj\Debug\lab4.exe
+C:\Users\Mateusz\Desktop\ewolucyjne\LAB6\lab5\lab4\obj\Debug\lab4.pdb
+C:\Users\Mateusz\Desktop\ewolucyjne\LAB6\lab5\lab4\bin\Debug\lab4.exe
+C:\Users\Mateusz\Desktop\ewolucyjne\LAB6\lab5\lab4\bin\Debug\lab4.pdb
+C:\Users\Mateusz\Desktop\ewolucyjne\LAB6\lab5\lab4\obj\Debug\lab4.csprojResolveAssemblyReference.cache
+C:\Users\Mateusz\Desktop\ewolucyjne\LAB7\lab5\lab4\bin\Debug\lab4.exe.config
+C:\Users\Mateusz\Desktop\ewolucyjne\LAB7\lab5\lab4\bin\Debug\lab4.exe
+C:\Users\Mateusz\Desktop\ewolucyjne\LAB7\lab5\lab4\bin\Debug\lab4.pdb
+C:\Users\Mateusz\Desktop\ewolucyjne\LAB7\lab5\lab4\obj\Debug\lab4.Properties.Resources.resources
+C:\Users\Mateusz\Desktop\ewolucyjne\LAB7\lab5\lab4\obj\Debug\lab4.csproj.GenerateResource.Cache
+C:\Users\Mateusz\Desktop\ewolucyjne\LAB7\lab5\lab4\obj\Debug\lab4.exe
+C:\Users\Mateusz\Desktop\ewolucyjne\LAB7\lab5\lab4\obj\Debug\lab4.pdb
+C:\Users\Mateusz\Desktop\ewolucyjne\LAB7\lab5\lab4\obj\Debug\lab4.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\lab5\lab4\obj\Debug\lab4.Properties.Resources.resources
+C:\Users\student\Desktop\lab5\lab4\obj\Debug\lab4.csproj.GenerateResource.Cache
+C:\Users\Mateusz\Desktop\ewolucyjne\projekt\lab5\lab4\bin\Debug\lab4.exe.config
+C:\Users\Mateusz\Desktop\ewolucyjne\projekt\lab5\lab4\bin\Debug\lab4.exe
+C:\Users\Mateusz\Desktop\ewolucyjne\projekt\lab5\lab4\bin\Debug\lab4.pdb
+C:\Users\Mateusz\Desktop\ewolucyjne\projekt\lab5\lab4\obj\Debug\lab4.csprojResolveAssemblyReference.cache
+C:\Users\Mateusz\Desktop\ewolucyjne\projekt\lab5\lab4\obj\Debug\lab4.Properties.Resources.resources
+C:\Users\Mateusz\Desktop\ewolucyjne\projekt\lab5\lab4\obj\Debug\lab4.csproj.GenerateResource.Cache
+C:\Users\Mateusz\Desktop\ewolucyjne\projekt\lab5\lab4\obj\Debug\lab4.exe
+C:\Users\Mateusz\Desktop\ewolucyjne\projekt\lab5\lab4\obj\Debug\lab4.pdb
+C:\Users\Mateusz\Desktop\ewolucyjne\projekt - Kopia\lab5\lab4\bin\Debug\lab4.exe.config
+C:\Users\Mateusz\Desktop\ewolucyjne\projekt - Kopia\lab5\lab4\obj\Debug\lab4.exe
+C:\Users\Mateusz\Desktop\ewolucyjne\projekt - Kopia\lab5\lab4\obj\Debug\lab4.pdb
+C:\Users\Mateusz\Desktop\ewolucyjne\projekt - Kopia\lab5\lab4\obj\Debug\lab4.Properties.Resources.resources
+C:\Users\Mateusz\Desktop\ewolucyjne\projekt - Kopia\lab5\lab4\obj\Debug\lab4.csproj.GenerateResource.Cache
+C:\Users\Mateusz\Desktop\ewolucyjne\projekt - Kopia\lab5\lab4\bin\Debug\lab4.exe
+C:\Users\Mateusz\Desktop\ewolucyjne\projekt - Kopia\lab5\lab4\bin\Debug\lab4.pdb
+C:\Users\Mateusz\Desktop\ewolucyjne\projekt - Kopia\lab5\lab4\obj\Debug\lab4.csprojResolveAssemblyReference.cache
+C:\Users\Mateusz\Desktop\aktualny projekt\lab5\lab4\bin\Debug\lab4.exe.config
+C:\Users\Mateusz\Desktop\aktualny projekt\lab5\lab4\obj\Debug\lab4.exe
+C:\Users\Mateusz\Desktop\aktualny projekt\lab5\lab4\obj\Debug\lab4.pdb
+C:\Users\Mateusz\Desktop\aktualny projekt\lab5\lab4\bin\Debug\lab4.exe
+C:\Users\Mateusz\Desktop\aktualny projekt\lab5\lab4\bin\Debug\lab4.pdb
+C:\Users\Mateusz\Desktop\aktualny projekt\lab5\lab4\obj\Debug\lab4.csprojResolveAssemblyReference.cache
+C:\Users\Mateusz\Desktop\aktualny projekt\lab5\lab4\obj\Debug\lab4.Properties.Resources.resources
+C:\Users\Mateusz\Desktop\aktualny projekt\lab5\lab4\obj\Debug\lab4.csproj.GenerateResource.Cache
+C:\Users\Mateusz\Desktop\aktualny projekt\projekt\lab4\bin\Debug\lab4.exe.config
+C:\Users\Mateusz\Desktop\aktualny projekt\projekt\lab4\obj\Debug\lab4.exe
+C:\Users\Mateusz\Desktop\aktualny projekt\projekt\lab4\obj\Debug\lab4.pdb
+C:\Users\Mateusz\Desktop\aktualny projekt\tutaj\projekt\lab4\bin\Debug\lab4.exe.config
+C:\Users\Mateusz\Desktop\aktualny projekt\tutaj\projekt\lab4\obj\Debug\lab4.exe
+C:\Users\Mateusz\Desktop\aktualny projekt\tutaj\projekt\lab4\obj\Debug\lab4.pdb
+C:\Users\Mateusz\Desktop\aktualny projekt\tutaj\projekt\lab4\bin\Debug\lab4.exe
+C:\Users\Mateusz\Desktop\aktualny projekt\tutaj\projekt\lab4\bin\Debug\lab4.pdb
+C:\Users\Mateusz\Desktop\aktualny projekt\tutaj\projekt\lab4\obj\Debug\lab4.csprojResolveAssemblyReference.cache
+C:\Users\Mateusz\Desktop\aktualny projekt\tutaj\projekt\lab4\obj\Debug\lab4.Properties.Resources.resources
+C:\Users\Mateusz\Desktop\aktualny projekt\tutaj\projekt\lab4\obj\Debug\lab4.csproj.GenerateResource.Cache
+D:\linkedin\ewolucyjne\projekt\lab4\bin\Debug\lab4.exe.config
+D:\linkedin\ewolucyjne\projekt\lab4\obj\Debug\lab4.exe
+D:\linkedin\ewolucyjne\projekt\lab4\obj\Debug\lab4.pdb
+D:\linkedin\ewolucyjne\projekt\lab4\bin\Debug\lab4.exe
+D:\linkedin\ewolucyjne\projekt\lab4\bin\Debug\lab4.pdb
+D:\linkedin\ewolucyjne\projekt\lab4\obj\Debug\lab4.csprojResolveAssemblyReference.cache
+D:\linkedin\ewolucyjne\projekt\lab4\obj\Debug\lab4.Properties.Resources.resources
+D:\linkedin\ewolucyjne\projekt\lab4\obj\Debug\lab4.csproj.GenerateResource.Cache

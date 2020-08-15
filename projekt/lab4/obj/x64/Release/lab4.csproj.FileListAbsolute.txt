@@ -1,0 +1,8 @@
+C:\Users\Mateusz\Desktop\aktualny projekt\lab5\lab4\bin\x64\Release\lab4.exe.config
+C:\Users\Mateusz\Desktop\aktualny projekt\lab5\lab4\bin\x64\Release\lab4.exe
+C:\Users\Mateusz\Desktop\aktualny projekt\lab5\lab4\bin\x64\Release\lab4.pdb
+C:\Users\Mateusz\Desktop\aktualny projekt\lab5\lab4\obj\x64\Release\lab4.csprojResolveAssemblyReference.cache
+C:\Users\Mateusz\Desktop\aktualny projekt\lab5\lab4\obj\x64\Release\lab4.Properties.Resources.resources
+C:\Users\Mateusz\Desktop\aktualny projekt\lab5\lab4\obj\x64\Release\lab4.csproj.GenerateResource.Cache
+C:\Users\Mateusz\Desktop\aktualny projekt\lab5\lab4\obj\x64\Release\lab4.exe
+C:\Users\Mateusz\Desktop\aktualny projekt\lab5\lab4\obj\x64\Release\lab4.pdb
